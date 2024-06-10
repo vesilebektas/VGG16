@@ -14,4 +14,4 @@ This project implements an image classification model using the VGG16 architectu
 - [X] The model is trained using the Adam optimizer with a learning rate of 0.0001 and binary cross-entropy loss. The training process includes checkpoints to save the best model based on validation accuracy and early stopping to prevent overfitting.
 
 ## Evaluation
--[X] After training, the model's performance is evaluated on the test set. The accuracy and loss for both training and validation sets are plotted to visualize the training process.
+- [X] After training, the model's performance is evaluated on the test set. The accuracy and loss for both training and validation sets are plotted to visualize the training process.
